@@ -332,8 +332,13 @@ p.review-rating {
     top:0;
   }
   nav {
-    height: 100%;
-  }
+    line-height: 100px;
+    height: 100px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: lighter;
+    letter-spacing: 6px;
+}
   .inside header, nav, .inside #map-container{
     position: relative;
   }
